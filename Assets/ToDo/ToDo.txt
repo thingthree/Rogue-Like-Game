@@ -1,0 +1,14 @@
+Problem: teleporters do nothing, teleporters only placed for type a - type a rooms
+but need to be able to be placed between either any two types of rooms or at least between 
+types currently planned
+
+solution: 
+
+future proof: method which instantiates from prefab of types of teleporters based room type
+when transitioning between rooms
+
+quick fix: method which instantiates from prefab of types of teleporters, given the type of teleport
+to instantiate and the type of room to check for transitions for
+
+
+
