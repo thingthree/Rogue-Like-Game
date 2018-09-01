@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.Runtime.Serialization.Formatters.Binary;
 
-// things needed to save the game are kept in the GameState class
+// data needed to save the game are kept in the GameState class
 
 [Serializable]
 public class GameState 
