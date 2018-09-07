@@ -24,8 +24,8 @@ public class BoardManager : MonoBehaviour
     public GameObject[] teleporters;
 
     // parameters
-    public int roomSpacingX;
-    public int roomSpacingY;
+    public static int roomSpacingX;
+    public static int roomSpacingY;
     public int roomCountMaximum;
     public int roomCountMinimum;
     public int totalNumberRooms;
